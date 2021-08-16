@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="nova_tarefa">Nova tarefa</string>
+    <string name="tv_title_label">Tarefas</string>
+    <string name="till_title_hint_label">Título</string>
+    <string name="til_data_label_hint">Data</string>
+    <string name="til_hour_label_hint">Hora</string>
+    <string name="mb_btn_cancel_label">Cancel</string>
+    <string name="mb_btn_criar_tarefa_label">Criar Tarefa</string>
+    <string name="label_menu_edit">Editar</string>
+    <string name="label_menu_del">Deletar</string>
+    <string name="label_empty_state">Ops! Você ainda não tem\n nenhuma tarefa.</string>
+</resources>
